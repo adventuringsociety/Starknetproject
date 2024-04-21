@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"t1q033k1od4iu","package_name":"tokens","contract_name":"ExperiencePoints","module_path":"tokens::ExperiencePoints","artifacts":{"sierra":"tokens_ExperiencePoints.contract_class.json","casm":null}}]}
